@@ -1,0 +1,37 @@
+.PortfolioContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem 2rem;
+  height: auto;
+  gap: 2rem;
+}
+.headerSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0rem;
+  gap: 1.6rem;
+}
+
+.myPortfolioText {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4.8rem;
+  line-height: 120%;
+  color: #282938;
+  margin-bottom: 6rem;
+}
+.contentSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0rem;
+  gap: 3.2rem;
+  width: 100%;
+  height: auto;
+  flex-wrap: wrap;
+  margin-bottom: 20rem;
+}

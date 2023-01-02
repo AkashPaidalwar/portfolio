@@ -1,0 +1,31 @@
+.expertiesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 6.4rem 6.4rem;
+  width: 100%;
+  height: auto;
+}
+.titleSection {
+  gap: 1.6rem;
+}
+.mySkills {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4.8rem;
+  color: #282938;
+}
+
+.skillSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0rem;
+  gap: 3.2rem;
+  width: 100%;
+  height: auto;
+  flex-wrap: wrap;
+}
