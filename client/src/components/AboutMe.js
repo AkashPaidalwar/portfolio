@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div className="imageContainer">
         <img
           className="aboutMeImage"
-          src="https://scontent.fbom22-1.fna.fbcdn.net/v/t31.18172-8/12841357_1120807117969303_1757191400397244230_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=pBMg8AkSom8AX-_jaXr&_nc_ht=scontent.fbom22-1.fna&oh=00_AfA8VQM1eFr0EW4eoNVYJS9G303zmvI5XlJYYyUsVHPr-Q&oe=63D479B1"
+          src="https://cdn.filestackcontent.com/dUpeb5gxSG3N0km3fsH8"
           alt=""
         />
       </div>
