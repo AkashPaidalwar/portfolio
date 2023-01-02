@@ -32,6 +32,6 @@ app.get("*", function (_, res) {
   );
 });
 
-app.listen(peocess.ENV.PORT || 5000, () => {
+app.listen(peocess.env.PORT || 5000, () => {
   console.log("backend is running");
 });
