@@ -11,7 +11,6 @@ export default function AboutMe() {
           alt=""
         />
       </div>
-
       <div className="detailsContainer">
         <p className="title">About Me</p>
         <p className="description">I am Akash Paidalwar,</p>
