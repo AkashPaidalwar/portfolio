@@ -3,10 +3,10 @@ import Ecommers_img2 from "./Project_Images/Ecommers/2.JPG";
 import Ecommers_img3 from "./Project_Images/Ecommers/3.JPG";
 import Ecommers_img4 from "./Project_Images/Ecommers/4.JPG";
 
-import Blog_img1 from ".https://www.linkpicture.com/view.php?img=LPic64035ac817721156275026";
-import Blog_img2 from "https://www.linkpicture.com/view.php?img=LPic64035af6e42a3871025185";
-import Blog_img3 from "https://www.linkpicture.com/view.php?img=LPic64035b18349401053074173";
-import Blog_img4 from "https://www.linkpicture.com/view.php?img=LPic64035b2f83b751430613730";
+import Blog_img1 from "https://www.linkpicture.com/q/1_1653.jpg";
+import Blog_img2 from "https://www.linkpicture.com/q/2_430.jpg";
+import Blog_img3 from "https://www.linkpicture.com/q/3_702.png";
+import Blog_img4 from "https://www.linkpicture.com/q/4_506.png";
 
 import Tasklister_img1 from "./Project_Images/Tasklister/1.JPG";
 import Tasklister_img2 from "./Project_Images/Tasklister/2.JPG";
