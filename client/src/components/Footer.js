@@ -7,14 +7,13 @@ import {
   faFacebook,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
-import myLogo from "../Project_Images/Logo/logo.JPG";
 
 export default function Footer() {
   return (
     <div className="footerContainer">
       <div className="footerContent">
         <div className="footerLogoContainer">
-          <img src={myLogo} alt="" className="logoimage" />
+          <img src="https://www.linkpicture.com/q/logo_172.jpg" alt="" className="logoimage" />
         </div>
         <div className="footerLinksContainer">
           <ul className="footerUL">
