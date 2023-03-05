@@ -56,6 +56,7 @@ const projectsData = {
         "https://www.linkpicture.com/q/4_650.jpg",
       ],
       skills: "React, MongoDB, NodeJS, Express, JavaScript, CSS",
+      dummy:123
     },
   ],
 };
