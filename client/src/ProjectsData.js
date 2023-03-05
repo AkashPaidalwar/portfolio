@@ -3,10 +3,10 @@ import Ecommers_img2 from "./Project_Images/Ecommers/2.JPG";
 import Ecommers_img3 from "./Project_Images/Ecommers/3.JPG";
 import Ecommers_img4 from "./Project_Images/Ecommers/4.JPG";
 
-import Blog_img1 from "https://www.linkpicture.com/q/1_1653.jpg";
-import Blog_img2 from "https://www.linkpicture.com/q/2_430.jpg";
-import Blog_img3 from "https://www.linkpicture.com/q/3_702.png";
-import Blog_img4 from "https://www.linkpicture.com/q/4_506.png";
+//import Blog_img1 from "https://www.linkpicture.com/q/1_1653.jpg";
+//import Blog_img2 from "https://www.linkpicture.com/q/2_430.jpg";
+//import Blog_img3 from "https://www.linkpicture.com/q/3_702.png";
+//import Blog_img4 from "https://www.linkpicture.com/q/4_506.png";
 
 import Tasklister_img1 from "./Project_Images/Tasklister/1.JPG";
 import Tasklister_img2 from "./Project_Images/Tasklister/2.JPG";
@@ -38,7 +38,7 @@ const projectsData = {
       APILink: " https://documenter.getpostman.com/view/23402501/2s8YzZRfFN",
       GitHub: "https://github.com/AkashPaidalwar/DearPublicDiary",
       videoLink: "https://www.youtube.com/watch?v=BddP6PYo2gs",
-      projectImage: [Blog_img1, Blog_img2, Blog_img3, Blog_img4],
+      projectImage: ["https://www.linkpicture.com/q/1_1653.jpg", "https://www.linkpicture.com/q/2_430.jpg", "https://www.linkpicture.com/q/3_702.png", "https://www.linkpicture.com/q/4_506.png"],
       skills: "React, MongoDB, NodeJS, Express, JavaScript, CSS",
     },
     {
