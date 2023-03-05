@@ -1,6 +1,5 @@
 import React from "react";
 import "./Greetings.css";
-import myImage from "./TP.png";
 export default function Greetings() {
   return (
     <div id="Home" className="Header">
@@ -51,7 +50,7 @@ export default function Greetings() {
         </div>
       </div>
       <div className="profilePicrureContainer">
-        <img src={myImage} alt="" className="ProfileImage" />
+        <img src="https://www.linkpicture.com/q/TP.jpg" alt="" className="ProfileImage" />
       </div>
     </div>
   );

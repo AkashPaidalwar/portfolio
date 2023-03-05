@@ -1,12 +1,11 @@
 import React from "react";
 import "./Topbar.css";
-import myLogo from "../Project_Images/Logo/logo.JPG";
 
 export default function Topbar() {
   return (
     <div className="mainContainer" id="Topbar">
       <div className="firstContainer">
-        <img src={myLogo} alt="" className="myLogo" />{" "}
+        <img src="https://www.linkpicture.com/q/logo_172.jpg" alt="" className="myLogo" />{" "}
       </div>
       <div className="ULContainer">
         <ul className="completeList">
