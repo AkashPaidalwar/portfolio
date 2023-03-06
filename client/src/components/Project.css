@@ -66,6 +66,8 @@
   flex: none;
   align-self: stretch;
   flex-grow: 0;
+  margin-bottom: 1 rem;
+  height: auto;
 }
 .SkillsUsed {
   order: 1;
@@ -100,6 +102,7 @@
   font-size: 1.5rem;
   text-align: center;
   text-decoration: none;
+  margin-top: 1rem;
 }
 
 .ProjectButton:hover {
