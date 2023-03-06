@@ -18,7 +18,7 @@ const projectsData = {
     {
       title: "MoKart",
       description:
-        "MoKart is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
+        "MoKart is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling.",
       websiteLink: "https://mokart.cyclic.app/",
       APILink: "https://documenter.getpostman.com/view/23402501/2s8YzZRf6P",
       GitHub: "https://github.com/AkashPaidalwar/MoKart",
@@ -33,7 +33,7 @@ const projectsData = {
     },
     {
       title: "Dear Public Diary",
-      description: "Dear Public Diary is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
+      description: "Dear Public Diary is built using React for building user interfaces and NodeJS and Express for the back-end server. It uses MongoDB database.",
       websiteLink: "https://dearpublicdiary.cyclic.app/",
       APILink: " https://documenter.getpostman.com/view/23402501/2s8YzZRfFN",
       GitHub: "https://github.com/AkashPaidalwar/DearPublicDiary",
@@ -44,7 +44,7 @@ const projectsData = {
     {
       title: "Task Lister",
       description:
-        "Task Lister is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
+        "Task Lister is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling.",
       websiteLink: "https://tasklisterbyakash.cyclic.app/",
       APILink: "https://documenter.getpostman.com/view/23402501/2s8YzZRfKn",
       GitHub: "https://github.com/AkashPaidalwar/task_Lisker_App",
