@@ -18,7 +18,7 @@ const projectsData = {
     {
       title: "MoKart",
       description:
-        "MoKart is an online shopping website that is made useing React and MongoDB",
+        "MoKart is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
       websiteLink: "https://mokart.cyclic.app/",
       APILink: "https://documenter.getpostman.com/view/23402501/2s8YzZRf6P",
       GitHub: "https://github.com/AkashPaidalwar/MoKart",
@@ -33,7 +33,7 @@ const projectsData = {
     },
     {
       title: "Dear Public Diary",
-      description: "MoKart is an online shopping website",
+      description: "Dear Public Diary is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
       websiteLink: "https://dearpublicdiary.cyclic.app/",
       APILink: " https://documenter.getpostman.com/view/23402501/2s8YzZRfFN",
       GitHub: "https://github.com/AkashPaidalwar/DearPublicDiary",
@@ -44,7 +44,7 @@ const projectsData = {
     {
       title: "Task Lister",
       description:
-        "MoKart is an online shopping website that is made useing React and MongoDB",
+        "Task Lister is built using React for building user interfaces, and NodeJS and Express for the back-end server. The database is managed using MongoDB and the website uses CSS for styling. JavaScript is used extensively throughout the website for scripting and event handling.",
       websiteLink: "https://tasklisterbyakash.cyclic.app/",
       APILink: "https://documenter.getpostman.com/view/23402501/2s8YzZRfKn",
       GitHub: "https://github.com/AkashPaidalwar/task_Lisker_App",

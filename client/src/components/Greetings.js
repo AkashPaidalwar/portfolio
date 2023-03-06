@@ -43,7 +43,7 @@ export default function Greetings() {
         <div className="Actions">
           <a
             className="getInTouchButtonGreetings"
-            href="https://drive.google.com/uc?export=download&id=0B_X9KPi0L0dSVDBZaDlJcDI5cjBYRVNmaE8wU0cyN1A0aWdV"
+            href="https://drive.google.com/uc?export=download&id=1wOni2739ypLrkPARC2m3Uvl7KqSIbday"
           >
             Download Resume
           </a>
